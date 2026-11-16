@@ -5,7 +5,7 @@ This repository contains instructions for the Final Project assigned in Applied 
 | Name | Date | Details |
 |:-----|:-----|:--------|
 | Project Proposal | Due Fri 11/13/26 @ 11:59 pm | See [instructions/00_project-proposal.md](instructions/00_project-proposal.md)|
-| Draft \#1 | Due ___ | TBA |
+| Draft \#1 | Due Sun 11/22 @ 11:59 pm | See [instructions/01_draft-1.md](instructions/01_draft-1.md)|
 | Draft \#2 | Due ___ | TBA |
 | Peer Review | In class on ____ | -- |
 | Review Reflection | Due ___ | TBA |
